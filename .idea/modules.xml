@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmoticonApp.iml" filepath="$PROJECT_DIR$/EmoticonApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmoticonLib/EmoticonLib.iml" filepath="$PROJECT_DIR$/EmoticonLib/EmoticonLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
